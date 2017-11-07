@@ -10,6 +10,8 @@
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
+    <IsWindowsApplication>False</IsWindowsApplication>
+    <PublishUrl>https://github.com/ndyzzjwdx/AbnormalBehaviorDetection.git</PublishUrl>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
